@@ -1,0 +1,5 @@
+[{"label":"Revenue","value":270,"comparison":250,"min":0,"satisfactory":150,"good":225,"max":300},
+{"label":"Profit","value":0.225,"comparison":0.27,"min":0,"satisfactory":0.2,"good":0.25,"max":0.3},
+{"label":"Avg Order Size","value":325,"comparison":550,"min":0,"satisfactory":350,"good":500,"max":600},
+{"label":"New Customers","value":1700,"comparison":2100,"min":0,"satisfactory":1450,"good":2000,"max":2500},
+{"label":"Cust Satisfaction","value":4.6,"comparison":4.5,"min":0,"satisfactory":3.5,"good":4.4,"max":5}]
